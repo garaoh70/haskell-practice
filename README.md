@@ -1,2 +1,10 @@
 # haskell-practice
 haskell を少しづつ学んでいく
+
+## １週目
+Haskellの最小の文法に触れ、最初の小さなプログラムを作ってGitHubにアップする
+
+### Day 1 : 環境構築とHello World
+
+- Windows で環境を作成
+- 最初のHello, World!をコンパイル＆実行
