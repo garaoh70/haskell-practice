@@ -37,3 +37,11 @@ C# の Enumerable.Aggregate っぽい記述はまたの機会に
 - 再帰関数
 - 演習
   - 自然数nまでの総和を再帰で計算する
+
+### Day 6 : リスト操作の練習
+
+- map
+- filter
+- fold
+
+ついでに trace も使ってみた
