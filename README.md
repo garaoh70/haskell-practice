@@ -60,3 +60,7 @@ C# の Enumerable.Aggregate っぽい記述はまたの機会に
 
 - ２回関数を実行する applyTwice の理解  
   → だんだん怪しくなってきた。ChatGPT に色々聞いた
+
+### Day 2：ラムダ式とセクション記法
+
+- ラムダ式でmap関数を使ってみる
