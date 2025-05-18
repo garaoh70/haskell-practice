@@ -75,3 +75,7 @@ C# の Enumerable.Aggregate っぽい記述はまたの機会に
 - map, filter, foldr, foldl の使い分け
   - 奇数だけ取り出して2倍にする
   - リストの積を計算する
+
+### Day 5 : Maybe
+
+- Maybe型とは？（値がある／ないを扱う）
